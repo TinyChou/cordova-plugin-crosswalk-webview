@@ -1,4 +1,5 @@
 platforms/android/libs/xwalk_core_library/build/
 platforms/android/libs/xwalk_core_library/build.gradle
 *.iml
+.DS_Store
 
